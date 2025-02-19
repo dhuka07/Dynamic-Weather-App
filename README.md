@@ -32,6 +32,8 @@ A React app that fetches and displays weather data using the OpenWeatherMap API.
 
 ![Screen Shot 2025-02-19 at 11 42 32 AM](https://github.com/user-attachments/assets/66c7a0ec-81a4-40b9-ae64-6ff76a605834)
 
+Mobile Version
+
 ![Screen Shot 2025-02-19 at 11 59 04 AM](https://github.com/user-attachments/assets/9b544e07-b445-4c8a-8ef0-e753de5c5316)
 
 
