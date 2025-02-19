@@ -22,6 +22,18 @@ A React app that fetches and displays weather data using the OpenWeatherMap API.
 5. Run tests: 
      ```bash
     npm test 
+## Snips of App
+
+![Screen Shot 2025-02-19 at 11 45 41 AM](https://github.com/user-attachments/assets/4156dd1e-be52-426e-a0d9-03e140915f4f)
+
+![Screen Shot 2025-02-19 at 11 42 56 AM](https://github.com/user-attachments/assets/fb78aa4a-8648-451d-8b91-a0241fa0397c)
+
+![Weather App](https://raw.githubusercontent.com/your-username/weather-app/main/screenshots/weather-app-home.png)
+
+![Screen Shot 2025-02-19 at 11 42 32 AM](https://github.com/user-attachments/assets/66c7a0ec-81a4-40b9-ae64-6ff76a605834)
+
+![Screen Shot 2025-02-19 at 11 59 04 AM](https://github.com/user-attachments/assets/9b544e07-b445-4c8a-8ef0-e753de5c5316)
+
 
 ## Technologies Used
 React
